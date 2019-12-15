@@ -15,3 +15,4 @@ npm run dev
 # Build for production
 npm run build
 ```
+[從頭開始建置指南](https://hackmd.io/@RoyChen/Syzvus93S)
