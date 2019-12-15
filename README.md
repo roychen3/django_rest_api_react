@@ -1,5 +1,3 @@
-# django_rest_api_react
- 
 # Lead Manager
 > Full stack Django/React/Redux app that uses token based authentication with Knox.
 
